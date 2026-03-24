@@ -1,0 +1,94 @@
+---
+title: "Presentación"
+format: revealjs
+editor: visual
+---
+
+## 🎯 Objetivos de la reunión
+
+
+- Validar entregables del proyecto.
+- Evaluar recursos disponibles.
+- Armar plan de trabajo.
+
+
+## Presentación del proyecto
+
+Plataforma tecnológica para gestionar ciclo de MyE con trazabilidad, seguridad y tiempos de respuesta adecuados a la toma de decisiones.
+
+## Productos entregables
+
+- 📄 Plan de Monitoreo (y Evaluación?).
+- 💻 Plataforma tecnológica de soporte del Plan.
+
+## Plan de MyE
+
+- 🔄 Teoría del cambio. Objetivos de la política:
+  - Aumento Exportaciones
+  - Más Empleo de calidad
+  - Desarrollo Tecnologías Limpias
+  - Innovación
+  - Descentralización
+  
+## Plan de MyE (2)
+- ❓ Preguntas de evaluación
+- 📊 Matriz de Indicadores
+  - Definición
+  - Forma de cálculo.
+  - Fuente de información base.
+  - Dimensiones relevantes (geográfica, género, innovación, sectores, exportaciones).
+
+
+## Plataforma tecnológica
+
+- 🧰 Herramienta para responder las preguntas plateadas en el plan.
+- 🔁 Automatiza procesos.
+
+![](warehouse.png){fig-align="center"}
+## Recursos 
+
+- Usuarios del sistema.
+  - ¿Quiénes son? ¿Qué necesidades tienen?
+- Infraestructura informática.
+- Fuentes de información.
+  - Internas (archivos Excel, Word, Papel, Otros Sistemas de Información).
+  - Externas (¿DGI?, ¿INE?).
+
+## Plan de Trabajo
+
+- Revisión documentación.
+- Revisión recursos disponibles.
+- Inventario de fuentes de información.
+
+
+
+## Taller Breve
+
+- Preguntas de para responder con el sistema.
+  - ¿Cuántos son los costos operativos del programa?
+  - ¿Cuánto es el costo por peso de inversión promovido?
+  - ¿Cuántos proyectos promovimos?
+  - ¿Cuánto demoran los proyectos en aprobarse?
+  - ¿Cuántos puestos de trabajo promovemos?
+  - ¿Cuántos puestos de trabajo crea el régimen?
+
+## Dimensiones relevantes
+
+- Geográfica (departamento, municipio).
+- Temporal.
+- Género
+- Sector de la economía
+
+## Matriz de indicadores
+
+- Clasificar indicadores de recursos, actividades, productos, resultados, impactos.
+
+<!-- - Clasificar criterios de evaluabilidad: -->
+<!--   - Eficacia -->
+<!--   - Sostenibilidad -->
+<!--   - Eficiencia -->
+<!--   - Coherencia -->
+<!--   - Impacto -->
+  
+
+

@@ -1,0 +1,20 @@
+---
+title: "IA Generativa"
+subtitle: "Panorama"
+author: "Rafael La Buonora"
+lang: es
+format: revealjs
+---
+
+
+
+# Diapo
+
+
+- texto
+- mas texto
+
+
+# Segunda Diapo
+
+# Diapo
