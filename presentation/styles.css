@@ -65,7 +65,7 @@
 }
 
 .reveal .slides #title-slide::before {
-  content: "COMAP";
+  content: "IA";
   display: inline-block;
   margin-bottom: 0.6rem;
   font-size: 0.34em;
